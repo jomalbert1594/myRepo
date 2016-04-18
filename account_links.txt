@@ -1,0 +1,3 @@
+This contains the link of my github and bitbucket account!
+https://github.com/jomalbert1594/myRepo.git
+https://clasher1594@bitbucket.org/clasher1594/version_control.git
